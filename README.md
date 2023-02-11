@@ -1,6 +1,7 @@
 # Revolutionizing-Poultry-Farming-The-Smart-Control-Cage-System
 Revolutionizing Poultry Farming: The Smart Control Cage System:
-A state-of-the-art technology designed to revolutionize the poultry farming industry and address common problems such as overcrowding, disease outbreaks, and poor welfare of birds.
+
+    A state-of-the-art technology designed to revolutionize the poultry farming industry and address common problems such as overcrowding, disease outbreaks, and poor welfare of birds.
 
 Features:
   1. Temperature control: 
@@ -59,5 +60,5 @@ Benefits
   4. Better living conditions for the chickens
  
 Contributing:
-  If you are interested in contributing to the development of the Smart Control Cage System, please feel free to reach out to us or open a pull request.
+    If you are interested in contributing to the development of the Smart Control Cage System, please feel free to reach out to us or open a pull request.
 
